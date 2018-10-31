@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "store",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8086,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "NDgyMTg5MDY4YTgxZWI3MDcyNmU1MjY5ZWE0OTcwMTk1MWUyMzc3YTcxYmZiNzljNTYzMDY4NDE4M2U3MjNkN2NlN2U5MzhjY2I3NTQxM2M2ZWM1MzhlYTY4NmM2ZjdmYzBlZTdiNmU4ODA4NWM4NmI4OTc4ODRmNzhmYzM5ZmM="
+  },
+  "git-provider": "GitHub",
+  "git-company": "sgrami1",
+  "repository-name": "store"
+}
